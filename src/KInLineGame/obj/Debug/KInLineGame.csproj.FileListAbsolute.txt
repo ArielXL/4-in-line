@@ -1,0 +1,72 @@
+c:\users\jean\documents\visual studio 2015\Projects\KInLineCore\KInLineGame\bin\Debug\KInLineGame.exe.config
+c:\users\jean\documents\visual studio 2015\Projects\KInLineCore\KInLineGame\bin\Debug\KInLineGame.exe
+c:\users\jean\documents\visual studio 2015\Projects\KInLineCore\KInLineGame\bin\Debug\KInLineGame.pdb
+c:\users\jean\documents\visual studio 2015\Projects\KInLineCore\KInLineGame\obj\Debug\KInLineGame.csprojResolveAssemblyReference.cache
+c:\users\jean\documents\visual studio 2015\Projects\KInLineCore\KInLineGame\obj\Debug\KInLineGame.Form1.resources
+c:\users\jean\documents\visual studio 2015\Projects\KInLineCore\KInLineGame\obj\Debug\KInLineGame.Properties.Resources.resources
+c:\users\jean\documents\visual studio 2015\Projects\KInLineCore\KInLineGame\obj\Debug\KInLineGame.csproj.GenerateResource.Cache
+c:\users\jean\documents\visual studio 2015\Projects\KInLineCore\KInLineGame\obj\Debug\KInLineGame.exe
+c:\users\jean\documents\visual studio 2015\Projects\KInLineCore\KInLineGame\obj\Debug\KInLineGame.pdb
+c:\users\jean\documents\visual studio 2015\Projects\KInLineCore\KInLineGame\bin\Debug\KInLineCore.dll
+c:\users\jean\documents\visual studio 2015\Projects\KInLineCore\KInLineGame\bin\Debug\KInLineCore.pdb
+F:\KInLineCore\KInLineGame\bin\Debug\KInLineGame.exe.config
+F:\KInLineCore\KInLineGame\obj\Debug\KInLineGame.exe
+F:\KInLineCore\KInLineGame\obj\Debug\KInLineGame.pdb
+F:\KInLineCore\KInLineGame\bin\Debug\KInLineGame.exe
+F:\KInLineCore\KInLineGame\bin\Debug\KInLineGame.pdb
+F:\KInLineCore\KInLineGame\bin\Debug\KInLineCore.dll
+F:\KInLineCore\KInLineGame\bin\Debug\KInLineCore.pdb
+F:\KInLineCore\KInLineGame\obj\Debug\KInLineGame.csprojResolveAssemblyReference.cache
+F:\KInLineCore\KInLineGame\obj\Debug\KInLineGame.Form1.resources
+F:\KInLineCore\KInLineGame\obj\Debug\KInLineGame.Properties.Resources.resources
+F:\KInLineCore\KInLineGame\obj\Debug\KInLineGame.csproj.GenerateResource.Cache
+H:\KInLineCore\KInLineGame\bin\Debug\KInLineGame.exe.config
+H:\KInLineCore\KInLineGame\obj\Debug\KInLineGame.exe
+H:\KInLineCore\KInLineGame\obj\Debug\KInLineGame.pdb
+H:\KInLineCore\KInLineGame\bin\Debug\KInLineGame.exe
+H:\KInLineCore\KInLineGame\bin\Debug\KInLineGame.pdb
+H:\KInLineCore\KInLineGame\bin\Debug\KInLineCore.dll
+H:\KInLineCore\KInLineGame\bin\Debug\KInLineCore.pdb
+H:\KInLineCore\KInLineGame\obj\Debug\KInLineGame.csprojResolveAssemblyReference.cache
+H:\KInLineCore\KInLineGame\obj\Debug\KInLineGame.Form1.resources
+H:\KInLineCore\KInLineGame\obj\Debug\KInLineGame.Properties.Resources.resources
+H:\KInLineCore\KInLineGame\obj\Debug\KInLineGame.csproj.GenerateResource.Cache
+D:\UNI - COMPUTACION\Programacion\KInLineCore\KInLineGame\bin\Debug\KInLineGame.exe.config
+D:\UNI - COMPUTACION\Programacion\KInLineCore\KInLineGame\obj\Debug\KInLineGame.exe
+D:\UNI - COMPUTACION\Programacion\KInLineCore\KInLineGame\obj\Debug\KInLineGame.pdb
+C:\Users\Ariel\Desktop\KInLineCore\KInLineGame\bin\Debug\KInLineGame.exe.config
+C:\Users\Ariel\Desktop\KInLineCore\KInLineGame\obj\Debug\KInLineGame.exe
+C:\Users\Ariel\Desktop\KInLineCore\KInLineGame\obj\Debug\KInLineGame.pdb
+C:\Users\Arielito\Documents\Mis proyectos\C#\Proyectos 1er año\KInLineCore\KInLineGame\bin\Debug\KInLineGame.exe.config
+C:\Users\Arielito\Documents\Mis proyectos\C#\Proyectos 1er año\KInLineCore\KInLineGame\obj\Debug\KInLineGame.exe
+C:\Users\Arielito\Documents\Mis proyectos\C#\Proyectos 1er año\KInLineCore\KInLineGame\obj\Debug\KInLineGame.pdb
+C:\Users\Arielito\Documents\Mis proyectos\C#\Proyectos 1er año\KInLineCore\KInLineGame\bin\Debug\KInLineGame.exe
+C:\Users\Arielito\Documents\Mis proyectos\C#\Proyectos 1er año\KInLineCore\KInLineGame\bin\Debug\KInLineGame.pdb
+C:\Users\Arielito\Documents\Mis proyectos\C#\Proyectos 1er año\KInLineCore\KInLineGame\bin\Debug\KInLineCore.dll
+C:\Users\Arielito\Documents\Mis proyectos\C#\Proyectos 1er año\KInLineCore\KInLineGame\bin\Debug\KInLineCore.pdb
+C:\Users\Arielito\Documents\Mis proyectos\C#\Proyectos 1er año\KInLineCore\KInLineGame\obj\Debug\KInLineGame.csprojResolveAssemblyReference.cache
+C:\Users\Arielito\Documents\Mis proyectos\C#\Proyectos 1er año\KInLineCore\KInLineGame\obj\Debug\KInLineGame.Form1.resources
+C:\Users\Arielito\Documents\Mis proyectos\C#\Proyectos 1er año\KInLineCore\KInLineGame\obj\Debug\KInLineGame.Properties.Resources.resources
+C:\Users\Arielito\Documents\Mis proyectos\C#\Proyectos 1er año\KInLineCore\KInLineGame\obj\Debug\KInLineGame.csproj.GenerateResource.Cache
+D:\Paquete\K in Line Core\KInLineGame\bin\Debug\KInLineGame.exe.config
+D:\Paquete\K in Line Core\KInLineGame\obj\Debug\KInLineGame.exe
+D:\Paquete\K in Line Core\KInLineGame\obj\Debug\KInLineGame.pdb
+D:\Paquete\K in Line Core\KInLineGame\bin\Debug\KInLineGame.exe
+D:\Paquete\K in Line Core\KInLineGame\bin\Debug\KInLineGame.pdb
+D:\Paquete\K in Line Core\KInLineGame\bin\Debug\KInLineCore.dll
+D:\Paquete\K in Line Core\KInLineGame\bin\Debug\KInLineCore.pdb
+D:\Paquete\K in Line Core\KInLineGame\obj\Debug\KInLineGame.csprojResolveAssemblyReference.cache
+D:\Paquete\K in Line Core\KInLineGame\obj\Debug\KInLineGame.KInLineGame.resources
+D:\Paquete\K in Line Core\KInLineGame\obj\Debug\KInLineGame.Properties.Resources.resources
+D:\Paquete\K in Line Core\KInLineGame\obj\Debug\KInLineGame.csproj.GenerateResource.Cache
+D:\arreglar\K in Line Core (ya)\KInLineGame\bin\Debug\KInLineGame.exe.config
+D:\arreglar\K in Line Core (ya)\KInLineGame\obj\Debug\KInLineGame.exe
+D:\arreglar\K in Line Core (ya)\KInLineGame\obj\Debug\KInLineGame.pdb
+D:\arreglar\K in Line Core (ya)\KInLineGame\bin\Debug\KInLineGame.exe
+D:\arreglar\K in Line Core (ya)\KInLineGame\bin\Debug\KInLineGame.pdb
+D:\arreglar\K in Line Core (ya)\KInLineGame\bin\Debug\KInLineCore.dll
+D:\arreglar\K in Line Core (ya)\KInLineGame\bin\Debug\KInLineCore.pdb
+D:\arreglar\K in Line Core (ya)\KInLineGame\obj\Debug\KInLineGame.csprojResolveAssemblyReference.cache
+D:\arreglar\K in Line Core (ya)\KInLineGame\obj\Debug\KInLineGame.KInLineGame.resources
+D:\arreglar\K in Line Core (ya)\KInLineGame\obj\Debug\KInLineGame.Properties.Resources.resources
+D:\arreglar\K in Line Core (ya)\KInLineGame\obj\Debug\KInLineGame.csproj.GenerateResource.Cache
