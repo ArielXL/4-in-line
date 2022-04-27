@@ -1,0 +1,20 @@
+c:\users\jean\documents\visual studio 2015\Projects\KInLineCore\KInLineCore\bin\Debug\KInLineCore.dll
+c:\users\jean\documents\visual studio 2015\Projects\KInLineCore\KInLineCore\bin\Debug\KInLineCore.pdb
+c:\users\jean\documents\visual studio 2015\Projects\KInLineCore\KInLineCore\obj\Debug\KInLineCore.csprojResolveAssemblyReference.cache
+c:\users\jean\documents\visual studio 2015\Projects\KInLineCore\KInLineCore\obj\Debug\KInLineCore.dll
+c:\users\jean\documents\visual studio 2015\Projects\KInLineCore\KInLineCore\obj\Debug\KInLineCore.pdb
+F:\KInLineCore\KInLineCore\bin\Debug\KInLineCore.dll
+F:\KInLineCore\KInLineCore\bin\Debug\KInLineCore.pdb
+F:\KInLineCore\KInLineCore\obj\Debug\KInLineCore.csprojResolveAssemblyReference.cache
+F:\KInLineCore\KInLineCore\obj\Debug\KInLineCore.dll
+F:\KInLineCore\KInLineCore\obj\Debug\KInLineCore.pdb
+H:\KInLineCore\KInLineCore\bin\Debug\KInLineCore.dll
+H:\KInLineCore\KInLineCore\bin\Debug\KInLineCore.pdb
+H:\KInLineCore\KInLineCore\obj\Debug\KInLineCore.csprojResolveAssemblyReference.cache
+H:\KInLineCore\KInLineCore\obj\Debug\KInLineCore.dll
+H:\KInLineCore\KInLineCore\obj\Debug\KInLineCore.pdb
+C:\Users\Arielito\Documents\Mis proyectos\C#\Proyectos 1er año\KInLineCore\KInLineCore\bin\Debug\KInLineCore.dll
+C:\Users\Arielito\Documents\Mis proyectos\C#\Proyectos 1er año\KInLineCore\KInLineCore\bin\Debug\KInLineCore.pdb
+C:\Users\Arielito\Documents\Mis proyectos\C#\Proyectos 1er año\KInLineCore\KInLineCore\obj\Debug\KInLineCore.csprojResolveAssemblyReference.cache
+C:\Users\Arielito\Documents\Mis proyectos\C#\Proyectos 1er año\KInLineCore\KInLineCore\obj\Debug\KInLineCore.dll
+C:\Users\Arielito\Documents\Mis proyectos\C#\Proyectos 1er año\KInLineCore\KInLineCore\obj\Debug\KInLineCore.pdb
